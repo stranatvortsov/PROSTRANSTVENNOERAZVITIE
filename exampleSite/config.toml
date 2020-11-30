@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "http://examplesite.org"
 title = "Educenter | hugo education template"
-theme = "educenter-hugo"
+theme = "artraion.github.io"
 # post pagination
 paginate = "6"
 # post excerpt
