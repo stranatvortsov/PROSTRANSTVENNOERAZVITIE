@@ -59,7 +59,7 @@
   translation: fee
 
 - id: teacher
-  translation: teacher1
+  translation: Лекторы
 
 - id: location
   translation: location
@@ -119,7 +119,7 @@
   translation: Остальное
 
 - id: notice
-  translation: notice
+  translation: Объявления
 
 - id: event
   translation: События
