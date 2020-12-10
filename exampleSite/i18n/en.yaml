@@ -59,7 +59,7 @@
   translation: fee
 
 - id: teacher
-  translation: teacher
+  translation: teacher1
 
 - id: location
   translation: location
@@ -80,22 +80,22 @@
   translation: Enter your email…
 
 - id: company
-  translation: company
+  translation: Проект
 
 - id: links
-  translation: links
+  translation: Ссылки
 
 - id: courses
-  translation: Courses
+  translation: Курсы
 
 - id: new_notice
-  translation: new notice
+  translation: Новые объявления
 
 - id: call
-  translation: call
+  translation: Телефон
 
 - id: email
-  translation: email
+  translation: Почта
 
 - id: all
   translation: All
@@ -118,23 +118,20 @@
 - id: Pages
   translation: Остальное
 
-#- id: teacher
-#  translation: teacher
-
 - id: notice
   translation: notice
 
 - id: event
-  translation: event
+  translation: События
 
 - id: scholarship
   translation: scholarship
 
 - id: research
-  translation: research
+  translation: Исследования
 
 - id: blog
   translation: блог
 
 - id: contact
-  translation: contact
+  translation: контакты

@@ -102,19 +102,19 @@ name = "teacher"
 URL = "teacher"
 
 [[menu.footer]]
-name = "notice"
+name = "Объявления"
 URL = "notice"
 
 [[menu.footer]]
-name = "event"
+name = "События"
 URL = "event"
 
-[[menu.footer]]
-name = "scholarship"
-URL = "scholarship"
+#[[menu.footer]]
+#name = "scholarship"
+#URL = "scholarship"
 
 [[menu.footer]]
-name = "research"
+name = "Исследования"
 URL = "research"
 
 
