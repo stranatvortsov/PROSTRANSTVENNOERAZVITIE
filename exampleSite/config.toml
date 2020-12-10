@@ -1,8 +1,8 @@
 ######################## default configuration ####################
 baseURL = "/"
-title = "Educenter | hugo education template"
+title = "Пространственное развитие"
 theme = "artraion.github.io"
-# post paginxxation
+# post pagination
 paginate = "6"
 # post excerpt
 summaryLength = "10"
@@ -122,12 +122,12 @@ URL = "research"
 [params]
 logo = "images/logo.png"
 # Meta data
-description = "This is meta description"
-author = "Themefisher"
+description = "Пространственное развитие"
+author = "Kwaskoff"
 # contact info
-address = "9567 Turner Trace Apt. BC C3G8A4"
-mobile = "+211234565523"
-email = "info@educenter.com"
+address = "Москва дом 1"
+mobile = "+7 925 500 66 05"
+email = "info@volgaexpert.com"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # Google Analitycs
@@ -142,7 +142,7 @@ preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
 
 # Subscription
 [params.subscription]
-enable = true
+enable = false
 # mailchimp subsciption
 mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
 mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
@@ -187,23 +187,23 @@ icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
 link = "#"
 
 
-################################### English language #####################################
 [Languages.en]
-languageName = "En"
-languageCode = "en-us"
-contentDir = "content/english"
+languageName = "Ru"
+languageCode = "ru-ru"
+contentDir = "content/ru"
 weight = 1
+home = "Домой"
+# copyright
+copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
+
+################################### English language #####################################
+[Languages.de]
+languageName = "De"
+languageCode = "de-de"
+contentDir = "content/english"
+weight = 2
 home = "Home"
 # copyright
 copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
 
 
-################################### French language #####################################
-[Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
-weight = 2
-home = "Accueil"
-# copyright
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
