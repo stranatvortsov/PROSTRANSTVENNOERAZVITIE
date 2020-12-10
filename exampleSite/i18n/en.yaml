@@ -113,7 +113,7 @@
   translation: Подробнее
 
 - id: course
-  translation: курсы
+  translation: Курсы
 
 - id: Pages
   translation: Остальное
@@ -131,7 +131,7 @@
   translation: Исследования
 
 - id: blog
-  translation: блог
+  translation: Блог
 
 - id: contact
-  translation: контакты
+  translation: Контакты

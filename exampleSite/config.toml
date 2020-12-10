@@ -74,10 +74,10 @@ hasChildren = true
   name = "event"
   URL = "event"
 
-  [[menu.main]]
-  parent = "Pages"
-  name = "scholarship"
-  URL = "scholarship"
+#  [[menu.main]]
+#  parent = "Pages"
+#  name = "scholarship"
+#  URL = "scholarship"
 
   [[menu.main]]
   parent = "Pages"
@@ -192,9 +192,9 @@ languageName = "Ru"
 languageCode = "ru-ru"
 contentDir = "content/ru"
 weight = 1
-home = "Домой"
+home = "Главная"
 # copyright
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
+copyright = "powered by Kwaskoff with hugo theme [themefisher](https://themefisher.com)"
 
 ################################### English language #####################################
 [Languages.de]

@@ -5,7 +5,7 @@ slider:
   slider_item:
     # slider item loop
     - title : "10 шагов пространственного развития"
-      content : "Пройди 10 шагов и получи шанс выиграть Тойота Корола"
+      content : "Технология социального взаимодействия"
       animation_in : "left"
       animation_out : "false"
       # available animation : left, right, up, down
