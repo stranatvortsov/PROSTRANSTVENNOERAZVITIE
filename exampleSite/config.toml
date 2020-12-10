@@ -127,7 +127,7 @@ author = "Kwaskoff"
 # contact info
 address = "Москва дом 1"
 mobile = "+7 925 500 66 05"
-email = "info@volgaexpert.com"
+email = "mail@stranatvortsov.ru"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # Google Analitycs
@@ -148,12 +148,12 @@ mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463e
 mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
 
 # google map
-[params.map]
-enable = true
-gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
-map_marker = "images/marker.png" # marker size 37*55 px
+#[params.map]
+#enable = true
+#gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
+#map_latitude = "51.5223477"
+#map_longitude = "-0.1622023"
+#map_marker = "images/marker.png" # marker size 37*55 px
 
 # cookies
 [params.cookies]
