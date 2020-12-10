@@ -110,13 +110,13 @@
   translation: Download
 
 - id: About
-  translation: About
+  translation: Подробнее
 
 - id: course
-  translation: course
+  translation: курсы
 
 - id: Pages
-  translation: Pages
+  translation: Остальное
 
 #- id: teacher
 #  translation: teacher
@@ -134,7 +134,7 @@
   translation: research
 
 - id: blog
-  translation: blog
+  translation: блог
 
 - id: contact
   translation: contact
