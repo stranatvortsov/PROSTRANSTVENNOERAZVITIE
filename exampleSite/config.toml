@@ -125,7 +125,7 @@ logo = "images/logo.png"
 description = "Пространственное развитие"
 author = "Kwaskoff"
 # contact info
-address = "Москва дом 1"
+address = "Москва"
 mobile = "+7 925 500 66 05"
 email = "mail@stranatvortsov.ru"
 # contact form action
@@ -164,28 +164,32 @@ expire_days = 2
 [[params.social]]
 title = "facebook"
 icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://www.facebook.com/prostranstvennoerazvitie.rf"
 
-[[params.social]]
-title = "twitter"
-icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
-link = "#"
+#[[params.social]]
+#title = "twitter"
+#icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
+#link = "#"
 
 [[params.social]]
 title = "instagram"
 icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://www.instagram.com/artrayon/"
+
+#[[params.social]]
+#title = "github"
+#icon = "ti-github" # themify icon : https://themify.me/themify-icons
+#link = "#"
+
+#[[params.social]]
+#title = "linkedin"
+#icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
+#link = "#"
 
 [[params.social]]
-title = "github"
-icon = "ti-github" # themify icon : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-title = "linkedin"
-icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
-link = "#"
-
+title = "telegram"
+icon = "ti-location-arrow" # themify icon : https://themify.me/themify-icons
+link = "https://t.me/groundsandmeanings"
 
 [Languages.en]
 languageName = "Ru"
