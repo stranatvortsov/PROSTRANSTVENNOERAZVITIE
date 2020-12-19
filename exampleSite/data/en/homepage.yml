@@ -78,11 +78,11 @@ slider:
 success_story:
   enable : true
   bg_image : "images/backgrounds/success-story.jpg"
-  title : "История успеха"
-  content : "Можно увидеть как всё происходило своими глазами.
+  title : "Пространство"
+  content : "Это территория, размеченная смыслами.
             
             
-  Благодаря youtube история становится достоянием человечества"
+  Технология разработана с целью самоорганизации общества и выстраивания качественного общественного договора."
   # video link
   video_link : "https://www.youtube.com/watch?v=ayJiw6KTg5c"
 
