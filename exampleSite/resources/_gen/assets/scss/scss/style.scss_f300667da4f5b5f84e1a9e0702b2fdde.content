@@ -112,8 +112,8 @@ h6, .h6 {
     background-color: #fff; }
   .btn-primary:active, .btn-primary:hover, .btn-primary.focus, .btn-primary:focus, .btn-primary.active {
     color: #00acc0 !important;
-    background-color: #ffab08 !important;
-    border-color: #ffab08 !important; }
+    background-color: #007e8d !important;
+    border-color: #007e8d !important; }
 
 .btn-outline-primary {
   color: #00acc0;
@@ -142,7 +142,7 @@ body {
   overflow-x: hidden; }
 
 ::selection {
-  background: #ffcd6e;
+  background: #00daf3;
   color: #fff; }
 
 /* preloader */
