@@ -51,8 +51,23 @@ link = "plugins/google-map/gmap.js"
 
 [[menu.main]]
 name = "course"
-URL = "https://youtube.com/playlist?list=PLfgNkk7oNbKSpHdDhCYAf1uYr-rjsbrQK"
 weight = 2
+hasChildren = true
+
+  [[menu.main]]
+  parent = "course"
+  name = "yt1"
+  URL = "https://youtube.com/playlist?list=PLfgNkk7oNbKTtpmAbDyr2yvONZUjj96UI"
+
+  [[menu.main]]
+  parent = "course"
+  name = "yt2"
+  URL = "https://youtube.com/playlist?list=PLfgNkk7oNbKSSCTtiWNCwgcGBhxoOzD60"
+
+  [[menu.main]]
+  parent = "course"
+  name = "yt3"
+  URL = "https://youtube.com/playlist?list=PLfgNkk7oNbKSpHdDhCYAf1uYr-rjsbrQK"
 
 [[menu.main]]
 weight = 3
@@ -68,11 +83,6 @@ hasChildren = true
   parent = "Pages"
   name = "notice"
   URL = "notice"
-
-  [[menu.main]]
-  parent = "Pages"
-  name = "event"
-  URL = "event"
 
 #  [[menu.main]]
 #  parent = "Pages"
