@@ -51,7 +51,7 @@ link = "plugins/google-map/gmap.js"
 
 [[menu.main]]
 name = "course"
-URL = "course"
+URL = "https://youtube.com/playlist?list=PLfgNkk7oNbKSpHdDhCYAf1uYr-rjsbrQK"
 weight = 2
 
 [[menu.main]]
