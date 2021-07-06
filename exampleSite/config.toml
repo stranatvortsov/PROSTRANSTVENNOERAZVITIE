@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "/"
 title = "Пространственное развитие"
-theme = "artraion.github.io"
+theme = "PROSTRANSTVENNOERAZVITIE"
 # post pagination
 paginate = "6"
 # post excerpt
