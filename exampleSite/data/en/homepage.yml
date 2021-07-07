@@ -5,7 +5,7 @@ slider:
   slider_item:
     # slider item loop
     - title : "Проблемы, Цели, Задачи Пространственного развития 2021 глазами профессионалов"
-      content : "Технология социального взаимодействия"
+      #content : "Технология социального взаимодействия"
       animation_in : "left"
       animation_out : "false"
       # available animation : left, right, up, down
