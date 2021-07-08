@@ -11,7 +11,7 @@ slider:
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "Скачать"
+        label : "Скачать исследование"
         link : "10steps.pdf"
 
 
