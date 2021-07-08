@@ -4,7 +4,13 @@ slider:
   bg_image : "images/banner/banner-1.jpg"
   slider_item:
     # slider item loop
-    - title : "Проблемы, Цели, Задачи Пространственного развития 2021 глазами профессионалов"
+    - title : "Проблемы, Цели, Задачи 
+
+
+Пространственного развития 
+
+
+2021 глазами профессионалов"
       #content : "Технология социального взаимодействия"
       animation_in : "left"
       animation_out : "false"
@@ -12,7 +18,7 @@ slider:
       button:
         enable : true
         label : "Скачать исследование"
-        link : "10steps.pdf"
+        link : "Нарр_иссл.pdf"
 
 
 
