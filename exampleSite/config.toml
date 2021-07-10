@@ -96,12 +96,12 @@ hasChildren = true
   
 [[menu.main]]
 name = "blog"
-URL = "blog"
+URL = "https://pr.stranatvortsov.ru"
 weight = 4
 
 [[menu.main]]
 name = "art"
-URL = "https://pr.stranatvortsov.ru"
+URL = "https://stranatvortsov.ru"
 weight = 5
   
 [[menu.main]]
