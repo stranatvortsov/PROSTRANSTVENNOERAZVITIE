@@ -101,7 +101,7 @@ weight = 4
 
 [[menu.main]]
 name = "art"
-URL = "https://stranatvortsov.ru"
+URL = "https://pr.stranatvortsov.ru"
 weight = 5
   
 [[menu.main]]
