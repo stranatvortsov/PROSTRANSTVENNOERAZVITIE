@@ -18,7 +18,7 @@ slider:
       button:
         enable : true
         label : "Скачать исследование"
-        link : "Нарр_иссл.pdf"
+        link : "narr_issledovanie.pdf"
 
 
 
