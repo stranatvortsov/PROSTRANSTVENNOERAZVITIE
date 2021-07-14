@@ -107,31 +107,31 @@ h6, .h6 {
 
 .btn-primary {
   color: #fff;
-  background-color: #00acc0; }
+  background-color: #5b92c0; }
   .btn-primary::before {
     background-color: #fff; }
   .btn-primary:active, .btn-primary:hover, .btn-primary.focus, .btn-primary:focus, .btn-primary.active {
-    color: #00acc0 !important;
-    background-color: #007e8d !important;
-    border-color: #007e8d !important; }
+    color: #5b92c0 !important;
+    background-color: #4079a8 !important;
+    border-color: #4079a8 !important; }
 
 .btn-outline-primary {
-  color: #00acc0;
+  color: #5b92c0;
   background-color: transparent;
-  border: 1px solid #00acc0; }
+  border: 1px solid #5b92c0; }
   .btn-outline-primary::before {
     background-color: #fff; }
   .btn-outline-primary:active, .btn-outline-primary:hover, .btn-outline-primary.focus, .btn-outline-primary:focus, .btn-outline-primary.active {
-    color: #00acc0 !important;
-    background-color: #00acc0 !important;
-    border-color: #00acc0 !important; }
+    color: #5b92c0 !important;
+    background-color: #5b92c0 !important;
+    border-color: #5b92c0 !important; }
 
 .btn-light {
-  color: #00acc0;
+  color: #5b92c0;
   background-color: #fff;
   border: 1px solid #fff; }
   .btn-light::before {
-    background-color: #00acc0; }
+    background-color: #5b92c0; }
   .btn-light:active, .btn-light:hover, .btn-light.focus, .btn-light:focus, .btn-light.active {
     color: #fff !important;
     background-color: #fff !important;
@@ -142,7 +142,7 @@ body {
   overflow-x: hidden; }
 
 ::selection {
-  background: #00daf3;
+  background: #80aace;
   color: #fff; }
 
 /* preloader */
@@ -186,19 +186,19 @@ select {
     outline: 0; }
 
 a:hover {
-  color: #00acc0; }
+  color: #5b92c0; }
 
 a.text-primary:hover {
-  color: #00acc0 !important; }
+  color: #5b92c0 !important; }
 
 a.text-light:hover {
-  color: #00acc0 !important; }
+  color: #5b92c0 !important; }
 
 h4 {
   transition: .2s ease; }
 
 a h4:hover {
-  color: #00acc0; }
+  color: #5b92c0; }
 
 .slick-slide {
   outline: 0; }
@@ -240,7 +240,7 @@ a h4:hover {
   display: unset !important; }
 
 .bg-primary {
-  background: #00acc0 !important; }
+  background: #5b92c0 !important; }
 
 .bg-secondary {
   background: #1a1a37 !important; }
@@ -249,7 +249,7 @@ a h4:hover {
   background: #f8f8f8; }
 
 .text-primary {
-  color: #00acc0 !important; }
+  color: #5b92c0 !important; }
 
 .text-color {
   color: #5c5c77; }
@@ -344,7 +344,7 @@ a h4:hover {
       height: 10px;
       width: 10px;
       border-radius: 50%;
-      background: #00acc0;
+      background: #5b92c0;
       left: -25px;
       top: 5px; }
 
@@ -364,9 +364,9 @@ textarea.form-control {
   .pagination .page-item {
     margin: 0 10px; }
     .pagination .page-item.active .page-link {
-      background: #00acc0;
+      background: #5b92c0;
       color: #fff;
-      border-color: #00acc0; }
+      border-color: #5b92c0; }
     .pagination .page-item:first-child .page-link, .pagination .page-item:last-child .page-link {
       border-radius: 0; }
     .pagination .page-item .page-link {
@@ -403,7 +403,7 @@ textarea.form-control {
       font-size: 14px;
       left: 0;
       top: 1px;
-      color: #00acc0;
+      color: #5b92c0;
       transition: .3s ease; }
 
 .content table {
@@ -448,7 +448,7 @@ textarea.form-control {
     transform-origin: top; }
 
 .navigation {
-  background: linear-gradient(to right, transparent 50%, #00acc0 50%);
+  background: linear-gradient(to right, transparent 50%, #5b92c0 50%);
   transition: .2s ease; }
   @media (max-width: 991px) {
     .navigation {
@@ -459,7 +459,7 @@ textarea.form-control {
 
 .navbar-nav {
   padding-left: 50px;
-  background: #00acc0; }
+  background: #5b92c0; }
   @media (max-width: 991px) {
     .navbar-nav {
       padding-left: 0;
@@ -521,7 +521,7 @@ link:focus,
 
 .navbar .dropdown-menu {
   box-shadow: 0px 3px 9px 0px rgba(0, 0, 0, 0.12);
-  border-bottom: 5px solid #00acc0;
+  border-bottom: 5px solid #5b92c0;
   padding: 15px;
   top: 96px;
   border-radius: 0;
@@ -556,7 +556,7 @@ link:focus,
   .navbar .dropdown-item:not(:last-child) {
     margin-bottom: 10px; }
   .navbar .dropdown-item:hover {
-    color: #00acc0;
+    color: #5b92c0;
     background: transparent; }
 
 .hero-section {
@@ -578,7 +578,7 @@ link:focus,
     outline: 0; }
   .hero-slider .prevArrow:hover,
   .hero-slider .nextArrow:hover {
-    color: #00acc0; }
+    color: #5b92c0; }
 
 .hero-slider .prevArrow {
   right: 60px; }
@@ -595,7 +595,7 @@ link:focus,
     display: inline-block;
     margin: 0 6px; }
     .hero-slider .slick-dots li.slick-active button {
-      background: #00acc0; }
+      background: #5b92c0; }
     .hero-slider .slick-dots li button {
       color: transparent;
       padding: 0;
@@ -609,7 +609,7 @@ link:focus,
 /* banner feature */
 .feature-icon {
   font-size: 50px;
-  color: #00acc0;
+  color: #5b92c0;
   display: inline-block; }
 
 .feature-blocks {
@@ -665,7 +665,7 @@ link:focus,
   height: 80px;
   width: 80px;
   border-radius: 50%;
-  background: #00acc0;
+  background: #5b92c0;
   color: #fff;
   font-size: 20px;
   text-align: center; }
@@ -690,7 +690,7 @@ link:focus,
     height: 80%;
     width: 80%;
     transform: translate(-50%, -50%);
-    background: #00acc0;
+    background: #5b92c0;
     border-radius: 50%;
     top: 50%;
     left: 50%;
@@ -709,7 +709,7 @@ link:focus,
 /* events */
 .card-date {
   position: absolute;
-  background: #00acc0;
+  background: #5b92c0;
   font-family: "futura-bold";
   text-align: center;
   padding: 10px;
@@ -730,7 +730,7 @@ link:focus,
 /* /teacher */
 /* footer */
 .newsletter {
-  background-image: linear-gradient(to right, transparent 50%, #00acc0 50%);
+  background-image: linear-gradient(to right, transparent 50%, #5b92c0 50%);
   margin-bottom: -170px;
   position: relative;
   z-index: 1; }
@@ -753,7 +753,7 @@ link:focus,
   border-radius: 0;
   padding-left: 25px; }
   .form-control:focus {
-    border-color: #00acc0;
+    border-color: #5b92c0;
     box-shadow: none; }
 
 .newsletter-block .form-control {
@@ -776,9 +776,9 @@ link:focus,
   transition: .1s ease; }
   .filter-controls li.active {
     font-weight: 600;
-    color: #00acc0; }
+    color: #5b92c0; }
   .filter-controls li:hover {
-    color: #00acc0; }
+    color: #5b92c0; }
 
 .tag-list a {
   display: block;
@@ -786,5 +786,5 @@ link:focus,
   background: #f8f9fe;
   color: #5c5c77; }
   .tag-list a:hover {
-    background-color: #00acc0;
+    background-color: #5b92c0;
     color: #fff; }
