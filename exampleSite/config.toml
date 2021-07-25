@@ -120,6 +120,27 @@ URL = "teacher"
 name = "notice"
 URL = "notice"
 
+[[menu.footer]]
+name = "course"
+weight = 2
+hasChildren = true
+
+  [[menu.footer]]
+  parent = "course"
+  name = "yt1"
+  URL = "https://youtube.com/playlist?list=PLfgNkk7oNbKTtpmAbDyr2yvONZUjj96UI"
+
+  [[menu.footer]]
+  parent = "course"
+  name = "yt2"
+  URL = "https://youtube.com/playlist?list=PLfgNkk7oNbKSSCTtiWNCwgcGBhxoOzD60"
+
+  [[menu.footer]]
+  parent = "course"
+  name = "yt3"
+  URL = "https://youtube.com/playlist?list=PLfgNkk7oNbKSpHdDhCYAf1uYr-rjsbrQK"
+
+
 #[[menu.footer]]
 #name = "event"
 #URL = "event"
