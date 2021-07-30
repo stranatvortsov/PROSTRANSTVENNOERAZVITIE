@@ -418,9 +418,9 @@ textarea.form-control {
     vertical-align: top;
     border: 1px solid #dee2e6; }
   .content table thead {
-    background: #eff1fd; }
+    background: #02021c; }
   .content table tbody {
-    background: #f8f9fe; }
+    background: #030325; }
     .content table tbody td {
       text-align: left !important; }
 
@@ -431,7 +431,7 @@ textarea.form-control {
 
 .content pre {
   padding: 10px 20px;
-  background: #f8f9fe; }
+  background: #030325; }
 
 .teacher-thumb-sm {
   height: 85px;
@@ -783,7 +783,7 @@ link:focus,
 .tag-list a {
   display: block;
   padding: 5px 10px;
-  background: #f8f9fe;
+  background: #030325;
   color: #5c5c77; }
   .tag-list a:hover {
     background-color: #5b92c0;
