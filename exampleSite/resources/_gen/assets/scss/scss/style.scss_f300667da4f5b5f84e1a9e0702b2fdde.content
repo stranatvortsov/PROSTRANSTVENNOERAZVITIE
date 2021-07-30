@@ -246,7 +246,7 @@ a h4:hover {
   background: #ffffff !important; }
 
 .bg-gray {
-  background: #f8f8f8; }
+  background: #030325; }
 
 .text-primary {
   color: #5b92c0 !important; }
