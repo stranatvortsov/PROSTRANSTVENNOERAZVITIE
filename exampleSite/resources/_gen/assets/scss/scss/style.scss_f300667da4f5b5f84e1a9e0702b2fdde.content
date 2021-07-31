@@ -138,7 +138,7 @@ h6, .h6 {
     border: 1px solid #fff !important; }
 
 body {
-  background-color: #1e1e4b;
+  background-color: #fff;
   overflow-x: hidden; }
 
 ::selection {
