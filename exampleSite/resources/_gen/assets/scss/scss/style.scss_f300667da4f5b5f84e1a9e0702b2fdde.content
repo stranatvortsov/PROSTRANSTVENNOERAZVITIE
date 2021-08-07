@@ -760,7 +760,7 @@ link:focus,
   height: 90px; }
 
 .bg-footer {
-  background-color: #ffffff; }
+  background-color: #b2c8d4; }
 
 .logo-footer {
   margin-top: -20px;
