@@ -230,7 +230,7 @@ a h4:hover {
     width: 100%;
     top: 0;
     left: 0;
-    background: #ffffff;
+    background: #b2c8d4;
     opacity: .8; }
 
 .outline-0 {
@@ -243,7 +243,7 @@ a h4:hover {
   background: #5b92c0 !important; }
 
 .bg-secondary {
-  background: #ffffff !important; }
+  background: #b2c8d4 !important; }
 
 .bg-gray {
   background: #030325; }
@@ -452,10 +452,10 @@ textarea.form-control {
   transition: .2s ease; }
   @media (max-width: 991px) {
     .navigation {
-      background: #ffffff; } }
+      background: #b2c8d4; } }
 @media (max-width: 991px) {
   .navbar-collapse {
-    background: #ffffff; } }
+    background: #b2c8d4; } }
 
 .navbar-nav {
   padding-left: 50px;
@@ -463,9 +463,9 @@ textarea.form-control {
   @media (max-width: 991px) {
     .navbar-nav {
       padding-left: 0;
-      background: #ffffff; } }
+      background: #b2c8d4; } }
 .nav-bg {
-  background-color: #ffffff; }
+  background-color: #b2c8d4; }
 
 .nav-item {
   margin: 0 15px;
